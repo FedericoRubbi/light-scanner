@@ -1,0 +1,6 @@
+[submodule "ZoeDepth"]
+	path = ZoeDepth
+	url = https://github.com/isl-org/ZoeDepth.git
+[submodule "LightGlue"]
+	path = LightGlue
+	url = https://github.com/cvg/LightGlue.git
